@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Log Page</title>
+    <link rel="stylesheet" href="/log.css?[[timestamp]]">
+</head>
+<body>
+<div class="container">
+    <h1>Log Page</h1>
+
+    <h2>Order Logs</h2>
+    <table class="log-table">
+        <thead>
+        <tr>
+            <th>ID</th>
+            <th>Quantity</th>
+            <th>Timestamp</th>
+        </tr>
+        </thead>
+        <tbody>
+        [[orderData]]
+        </tbody>
+    </table>
+
+    <h2>Notification Logs</h2>
+    <table class="log-table">
+        <thead>
+        <tr>
+            <th>Message</th>
+        </tr>
+        </thead>
+        <tbody>
+            [[notificationData]]
+        </tbody>
+    </table>
+</div>
+</body>
+</html>

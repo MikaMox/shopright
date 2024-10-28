@@ -1,0 +1,9 @@
+[
+    "Low stock alert for 1: Product A: only 4 left.",
+    "error : 400 - unable to fulfill required quantity. Stock available for Product A is 4",
+    "Low stock alert for 2: Product B: only 4 left.",
+    "Low stock alert for 2: Product B: only 3 left.",
+    "error : 400 - unable to fulfill required quantity. Stock available for Product B is 3",
+    "error : 400 - Unable to find a product with id 3.",
+    "Low stock alert for 1: Product A: only 3 left."
+]

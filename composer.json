@@ -1,0 +1,17 @@
+{
+    "name": "mikaela/shopright",
+    "description": "shopright tech test",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mikaela\\Shopright\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikaela Tyrrell",
+            "email": "mikatyrrell@gmail.com"
+        }
+    ],
+    "require": {}
+}

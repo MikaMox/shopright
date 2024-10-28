@@ -1,0 +1,281 @@
+[
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 16:34:50.341804",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 16:41:46.581598",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 16:42:25.630789",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 17:04:43.255189",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 17:05:43.680299",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 17:07:11.625752",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 17:07:48.680031",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 10,
+        "timeStamp": {
+            "date": "2024-10-27 18:05:45.424500",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 2,
+        "timeStamp": {
+            "date": "2024-10-27 18:10:43.145500",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": -20,
+        "timeStamp": {
+            "date": "2024-10-27 18:15:55.941937",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 2,
+        "timeStamp": {
+            "date": "2024-10-27 18:18:14.801519",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 2,
+        "timeStamp": {
+            "date": "2024-10-27 18:22:02.996773",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 2,
+        "timeStamp": {
+            "date": "2024-10-27 18:24:52.556049",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 2,
+        "timeStamp": {
+            "date": "2024-10-27 18:28:24.900376",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 18:36:11.761842",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 3,
+        "timeStamp": {
+            "date": "2024-10-27 18:41:13.386931",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 3,
+        "timeStamp": {
+            "date": "2024-10-27 19:28:54.912336",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 3,
+        "timeStamp": {
+            "date": "2024-10-27 19:30:09.217348",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 19:41:10.894200",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": -20,
+        "timeStamp": {
+            "date": "2024-10-27 19:44:53.526786",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 18,
+        "timeStamp": {
+            "date": "2024-10-27 19:48:45.270445",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 20:01:43.234447",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 20:04:36.071651",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": -20,
+        "timeStamp": {
+            "date": "2024-10-27 20:04:51.137848",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 16,
+        "timeStamp": {
+            "date": "2024-10-27 20:04:58.810466",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-27 20:05:35.118259",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": -20,
+        "timeStamp": {
+            "date": "2024-10-28 10:28:24.446045",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 20,
+        "timeStamp": {
+            "date": "2024-10-28 10:31:23.162454",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 2,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-28 10:35:44.390802",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 2,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-28 10:47:26.675802",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    },
+    {
+        "id": 1,
+        "quantity": 1,
+        "timeStamp": {
+            "date": "2024-10-28 11:55:40.045138",
+            "timezone_type": 3,
+            "timezone": "UTC"
+        }
+    }
+]
